@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.print("Halo Dunia")
+st.text("Halo Dunia")
