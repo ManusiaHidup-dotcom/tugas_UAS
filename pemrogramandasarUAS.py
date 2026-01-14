@@ -1,6 +1,7 @@
 import streamlit as st
 
 st.title("Kalkulator Volume Bangun Ruang")
+st.subheader("Nama: Yudhistira Baskoro Adi Admojo | NIM: 24.83.1094")
 st.write("Aplikasi sederhana menghitung volume menggunakan Python & Streamlit")
 
 bangun = st.selectbox(
